@@ -5905,11 +5905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestGit\\s2i-dotnetcore-ex\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\UnitTest\\netcoreUnitTest\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "projectName": "XUnitTestProject1",
-      "projectPath": "C:\\TestGit\\s2i-dotnetcore-ex\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectPath": "C:\\UnitTest\\netcoreUnitTest\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\Pierre Jiji\\.nuget\\packages\\",
-      "outputPath": "C:\\TestGit\\s2i-dotnetcore-ex\\XUnitTestProject1\\obj\\",
+      "outputPath": "C:\\UnitTest\\netcoreUnitTest\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5928,8 +5928,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\TestGit\\s2i-dotnetcore-ex\\app\\app.csproj": {
-              "projectPath": "C:\\TestGit\\s2i-dotnetcore-ex\\app\\app.csproj"
+            "C:\\UnitTest\\netcoreUnitTest\\app\\app.csproj": {
+              "projectPath": "C:\\UnitTest\\netcoreUnitTest\\app\\app.csproj"
             }
           }
         }
@@ -5948,6 +5948,7 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

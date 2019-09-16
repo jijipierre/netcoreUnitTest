@@ -11844,11 +11844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestGit\\s2i-dotnetcore-ex\\app\\app.csproj",
+      "projectUniqueName": "C:\\UnitTest\\netcoreUnitTest\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\TestGit\\s2i-dotnetcore-ex\\app\\app.csproj",
+      "projectPath": "C:\\UnitTest\\netcoreUnitTest\\app\\app.csproj",
       "packagesPath": "C:\\Users\\Pierre Jiji\\.nuget\\packages\\",
-      "outputPath": "C:\\TestGit\\s2i-dotnetcore-ex\\app\\obj\\",
+      "outputPath": "C:\\UnitTest\\netcoreUnitTest\\app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
