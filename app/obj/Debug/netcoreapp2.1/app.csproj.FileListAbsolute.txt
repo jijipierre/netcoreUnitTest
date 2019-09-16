@@ -62,3 +62,6 @@ C:\UnitTest\netcoreUnitTest\app\obj\Debug\netcoreapp2.1\app.Views.pdb
 C:\UnitTest\netcoreUnitTest\app\obj\Debug\netcoreapp2.1\app.dll
 C:\UnitTest\netcoreUnitTest\app\obj\Debug\netcoreapp2.1\app.pdb
 C:\UnitTest\netcoreUnitTest\app\obj\Debug\netcoreapp2.1\app.csproj.CopyComplete
+C:\UnitTest\netcoreUnitTest\app\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\UnitTest\netcoreUnitTest\app\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\UnitTest\netcoreUnitTest\app\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
