@@ -7,7 +7,5 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
-<ItemGroup>
-    <ProjectReference Include="..\XUnitTestProject1\XUnitTestProject1.csproj" />
-  </ItemGroup>
+
 </Project>
